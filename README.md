@@ -1,1 +1,1 @@
-![Model](C:\Users\Bader\Desktop\Data Analysis datacamp\Resume\ResumeV1\gtiresume\assets\resume.png)
+![alt text](assets/resume.png)
